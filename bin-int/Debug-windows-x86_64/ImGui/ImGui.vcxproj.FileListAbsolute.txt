@@ -1,0 +1,2 @@
+C:\Dev\Galaxy\Galaxy\vendor\ImGui\bin\Debug-windows-x86_64\ImGui\ImGui.pdb
+C:\Dev\Galaxy\Galaxy\vendor\ImGui\bin-int\Debug-windows-x86_64\ImGui\ImGui.pdb
